@@ -1,0 +1,10 @@
+List of relations
+ Schema |   Name    | Type  | Owner 
+--------+-----------+-------+-------
+ public | badges    | table | root
+ public | comments  | table | root
+ public | posts     | table | root
+ public | posttypes | table | root
+ public | users     | table | root
+ public | votes     | table | root
+ public | votetypes | table | root
